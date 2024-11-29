@@ -10,9 +10,9 @@ header {
     text-align: center;
 }
 
-nav {
+main {
     background-color: white;
-    border-radius: 10px;
+    border-radius: 75px;
     text-decoration: none;
     text-align: center;
     color: black;
@@ -45,4 +45,17 @@ footer {
 
 a.linksin {
     color: black;
+}
+
+a.linksin {
+    color: black;
+    text-decoration: none;
+}
+
+a.linksin:hover {
+    text-decoration: underline;
+}
+
+a.linksin:hover::after {
+    content: ' (link)';
 }
