@@ -18,6 +18,10 @@ main {
     color: black;
 }
 
+p#telefone {
+    font-size: 1.15em;
+}
+
 a.linksex {
     color: #575757;
     text-decoration: none;
