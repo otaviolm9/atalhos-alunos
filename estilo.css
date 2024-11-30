@@ -10,6 +10,12 @@ header {
     text-align: center;
 }
 
+h2#versao {
+    text-align: right;
+    font-size: 1.15em;
+    color: black;
+}
+
 main {
     background-color: white;
     border-radius: 75px;
@@ -45,6 +51,7 @@ a.linksin:active {
 
 footer {
     text-align: center;
+    color: black;
 }
 
 a.linksin {
