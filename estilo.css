@@ -1,4 +1,4 @@
-/* VERSÃO CSS: 1.0.13 */
+/* VERSÃO CSS: 1.0.14 */
 
 body {
     background-color: #75c9e6;
@@ -30,7 +30,16 @@ a.linksex {
     text-decoration: none;
 }
 
+main > h1.linksex {
+    color: #575757;
+    text-decoration: none;
+}
+
 a.linksex:hover {
+    text-decoration: underline;
+}
+
+h1.linksex:hover {
     text-decoration: underline;
 }
 
@@ -38,11 +47,23 @@ a.linksex:hover::after {
     content: ' (link)';
 }
 
+h1.linksex:hover::after {
+    content: ' (link)';
+}
+
 a.linksex:active {
     color: yellow;
 }
 
+h1.linksex:active {
+    color: yellow;
+}
+
 a.linksin:active {
+    color: yellow;
+}
+
+h2.linksin:active {
     color: yellow;
 }
 
@@ -53,9 +74,10 @@ footer {
 
 a.linksin {
     color: black;
+    text-decoration: none;
 }
 
-a.linksin {
+h2.linksin {
     color: black;
     text-decoration: none;
 }
@@ -64,6 +86,14 @@ a.linksin:hover {
     text-decoration: underline;
 }
 
+h2.linksin:hover {
+    text-decoration: underline;
+}
+
 a.linksin:hover::after {
+    content: ' (link)';
+}
+
+h2.linksin:hover::after {
     content: ' (link)';
 }
