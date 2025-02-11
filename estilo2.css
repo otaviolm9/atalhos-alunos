@@ -1,4 +1,4 @@
-/* VERSÃO CSS: 1.0.15 */
+/* VERSÃO CSS: 1.0.16 */
 
 body {
     background-color: #75c9e6;
@@ -47,7 +47,7 @@ main {
 }
 
 a.linksex {
-    color: black;
+    color: #575757;
     text-decoration: none;
     text-align: center;
 }
