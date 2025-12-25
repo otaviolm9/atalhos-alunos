@@ -24,3 +24,15 @@
 
 ### Removido
 - Nada
+
+------------------------
+## [1.0.23] - 2025-12-25
+
+### Adicionado
+- Nada
+
+### Corrigido
+- Ajuste de texto do Tarefas Diarias
+
+### Removido
+- Nada
