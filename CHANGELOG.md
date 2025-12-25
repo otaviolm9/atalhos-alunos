@@ -12,3 +12,15 @@
 
 ### Removido
 - Suporte do site
+
+------------------------
+## [1.0.22] - 2025-12-25
+
+### Adicionado
+- Nada
+
+### Corrigido
+- Ajuste do acesso a biblioteca
+
+### Removido
+- Nada
